@@ -1,0 +1,37 @@
+body{
+    background-color: #F8F4E1;
+}
+
+.hero{
+    background-image: url('../images/hero.jpg');
+    background-size: cover;
+    background-position: center;
+    min-height: 70vh;
+    background-color: black;
+}
+
+.hero h1{
+    color: white;
+    text-shadow: 1px 1px 3px black;
+    font-weight: bold;
+    font-size: 50px;
+    text-align: center;
+    padding-top: 200px;
+}
+
+.hero p{
+    color: white;
+    text-shadow: 1px 1px 3px black;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.hero button{
+    display: block;
+    margin: 0 auto;
+    margin-top: 10px;
+    border-radius: 5px;
+    border: none;
+}
